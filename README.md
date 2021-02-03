@@ -1,6 +1,6 @@
-# Lists and Arrays Sorting and Searching Methods
+# Sorting and Searching
 
-Sorting and searching functions implementation for lists and arrays.
+Sorting and searching functions for lists and arrays.
 
 ## References
 
@@ -8,7 +8,7 @@ Sorting and searching functions implementation for lists and arrays.
 
 ## Files
 
-`Sorting.py` Sorting and searching functions implementation for lists and arrays.
+`Sorting.py` Implementation of sorting and searching functions for lists and arrays.
 
 ```python
 """

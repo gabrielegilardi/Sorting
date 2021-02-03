@@ -1,5 +1,5 @@
 """
-Lists and Arrays Sorting and Searching Methods
+Sorting and Searching
 
 Copyright (c) 2021 Gabriele Gilardi
 
@@ -7,7 +7,7 @@ Copyright (c) 2021 Gabriele Gilardi
 Notes
 -----
 - Written and tested in Python 3.8.5.
-- Sorting and searching functions implementation for lists and arrays.
+- Implementation  of sorting and searching functions for lists and arrays.
 - Lists (strings or numbers) work with any sorting method.
 - Numpy arrays work with any sorting method but heap and merge sort.
 - Possible to sort using the specific method or using a general function.
